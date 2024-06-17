@@ -28,6 +28,7 @@ To run this code, you need to have Ollama installed and running in the backgroun
     python3 main.py
     ```
 
-###  **Stack:** Python, Langchain, Ollama, ChromaDB
+> *Stack:* Python, LangChain, Ollama, ChromaDB
 
-> Based on the article [Using Langchain and Open Source Vector DB Chroma for Semantic Search with OpenAI's LLM](https://blog.futuresmart.ai/using-langchain-and-open-source-vector-db-chroma-for-semantic-search-with-openais-llm) from Pradip Nichite.
+
+* Based on the article [Using Langchain and Open Source Vector DB Chroma for Semantic Search with OpenAI's LLM](https://blog.futuresmart.ai/using-langchain-and-open-source-vector-db-chroma-for-semantic-search-with-openais-llm) from Pradip Nichite.
